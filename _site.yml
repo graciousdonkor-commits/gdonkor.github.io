@@ -1,0 +1,9 @@
+name: "Personal-Website"
+output_dir: "."
+navbar:
+  title: "Gracious Y.B. Donkor, MS"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html

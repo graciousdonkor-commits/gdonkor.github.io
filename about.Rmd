@@ -1,0 +1,5 @@
+---
+title: "About Me"
+---
+
+I am currently a Doctoral Fellow in the Microbiology Program at the University at Illinois, Urbana-Champaign. My research interests center on post-transcriptional and post-translational mechanisms by which HilD, a critical regulator of virulence in Salmonella, is regulated. Prior to my current position, I investigated the clinical dynamics and consequences of antibiotic misuse and explored the bactericidal activity of a novel transition metal based antimicrobial research in drug-resistant pathogens. I am open to collaborating on topics related to my aforementioned interests.
